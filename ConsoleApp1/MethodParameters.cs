@@ -20,6 +20,7 @@ namespace ConsoleApp1
         public  void SimpleMethod( ref int j)
         {
             j = 10;
+            //jlghihjdhjtk;hjthjthj
         }
     }
 }
